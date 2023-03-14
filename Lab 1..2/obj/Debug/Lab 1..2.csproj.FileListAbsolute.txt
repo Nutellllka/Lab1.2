@@ -1,0 +1,27 @@
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\Lab_1.__2.exe.config
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\Lab_1.__2.exe
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\Lab_1.__2.pdb
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Buffers.dll
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Memory.dll
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Text.Json.dll
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.ValueTuple.dll
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Buffers.xml
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Memory.xml
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Text.Json.xml
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\bin\Debug\System.ValueTuple.xml
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\obj\Debug\Lab 1..2.csproj.AssemblyReference.cache
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\obj\Debug\Lab 1..2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\obj\Debug\Lab 1..2.csproj.CoreCompileInputs.cache
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\obj\Debug\Lab 1..2.csproj.CopyComplete
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\obj\Debug\Lab_1.__2.exe
+C:\Users\Vlada\RiderProjects\Lab 1..2\Lab 1..2\obj\Debug\Lab_1.__2.pdb
